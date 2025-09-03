@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Nolan Herron  
 
-<!--
-**njherron04/njherron04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer with a B.S. in Informatics (Cybersecurity).  
+This repository contains my **HomeLab** projects, where I practice networking and security fundamentals through hands-on experiments.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏡 HomeLab Projects
+- **TCP Chat Server (Python)** → exploring socket programming, client/server models, and multithreaded communication  
+- Future labs: security utilities in C#, intrusion detection experiments, and network monitoring tools  
+
+---
+
+## 🛠 Skills & Tools
+- **Languages:** Python, C#, C, SQL, Bash  
+- **Systems & Platforms:** Linux, Windows Server, Active Directory  
+- **Tools:** Git, Docker, Wireshark, NUnit, Sphinx  
+- **Domains:** Networking, Cybersecurity, Systems Programming, Software Testing  
+
+---
+
+## 🔍 Areas of Interest
+- Applied security (authentication, encryption, threat modeling)  
+- Software quality assurance & automated testing  
+- Building clean developer documentation and tooling  
+- Bridging the gap between infrastructure and software engineering  
+
+---
+
+## 🎯 Why This Repo
+This repo serves as a place to document my labs and experiments — showing my continued interest in **security, networking, and system design** beyond formal coursework.  
