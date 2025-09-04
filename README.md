@@ -7,7 +7,12 @@ This repository contains my **HomeLab** projects, where I practice networking an
 
 ## 🏡 HomeLab Projects
 - **TCP Chat Server (Python)** → exploring socket programming, client/server models, and multithreaded communication  
-- Future labs: security utilities in C#, intrusion detection experiments, and network monitoring tools  
+- Future labs: security utilities in C#, intrusion detection experiments, and network monitoring tools
+
+---
+
+## 🔒 SOCWarden
+- **SOCWarden** is a personal Security Operations Center that monitors system and network activity in real time, explains events clearly, and provides safe, guided responses.
 
 ---
 
