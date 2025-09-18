@@ -1,7 +1,7 @@
 # 👋 Nolan Herron  
 
 Software Engineer with a B.S. in Informatics (Cybersecurity).  
-This repository contains my **HomeLab** projects, where I practice networking and security fundamentals through hands-on experiments.  
+This repository contains my **HomeLab** projects, where I practice programming fundamentals through hands-on experiments.  
 
 ---
 
