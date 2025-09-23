@@ -7,6 +7,7 @@ This repository contains my **HomeLab** projects, as well as labs I completed th
 
 ## 🏡 Personal & Academic Projects
 - **TCP Chat Server (Python)** → exploring socket programming, client/server models, and multithreaded communication  [TCP Chat Server](https://github.com/njherron04/HomeLab/tree/main/Projects/TCP_Server)
+- **DoS Attack Simulation & Defense (Jetstream2)** → Simulated SYN-spoof and Slowloris DoS attacks against a Linux Apache VM on Jetstream2; implemented detection with Snort and mitigation using iptables and server hardening (SYN cookies, mod_reqtimeout). [DoS Attack Sim](https://github.com/njherron04/HomeLab/tree/main/Projects/DoS_AttackSim)
 
 ---
 
