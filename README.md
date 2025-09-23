@@ -5,7 +5,7 @@ This repository contains my **HomeLab** projects, as well as labs I completed th
 
 ---
 
-## 🏡 HomeLab Projects
+## 🏡 Personal & Academic Projects
 - **TCP Chat Server (Python)** → exploring socket programming, client/server models, and multithreaded communication  [TCP Chat Server](https://github.com/njherron04/HomeLab/tree/main/Projects/TCP_Server)
 
 ---
