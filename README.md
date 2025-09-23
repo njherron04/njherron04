@@ -11,8 +11,13 @@ This repository contains my **HomeLab** projects, where I practice programming f
 ---
 
 ## 🛠 Skills & Tools
-- **Languages:** Python, C#, C, SQL, Bash  
-- **Domains:** Networking, Cybersecurity, Systems Programming, Software Testing  
+- **Languages:**
+- Python, C#, C, SQL, Bash  
+- **Domains:**  
+- **Networking:** TCP/IP, packet analysis, virtualized lab environments  
+- **Security:** Access control models (DAC, MAC, RBAC, ABAC), intrusion detection (Snort), secure configuration  
+- **Systems Programming:** Low-level C, Bash scripting, Linux process management  
+- **Software Testing:** Unit testing (NUnit, PyTest), automation, headless UI testing
 
 ---
 
