@@ -1,6 +1,5 @@
 # 👋 Nolan Herron  
 
-Software Engineer with a B.S. in Informatics (Security).  
 This repository contains my projects, as well as labs I completed throughout school, where I practice security and programming through hands-on experiments.  
 
 ---
