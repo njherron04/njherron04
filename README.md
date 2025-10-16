@@ -1,6 +1,6 @@
 # 👋 Nolan Herron  
 
-This repository contains my projects, as well as labs I completed throughout school, where I practice security and programming through hands-on experiments.  
+This repository contains my projects, as well as labs I completed academically, where I practice security and programming through hands-on experiments.  
 
 ---
 
